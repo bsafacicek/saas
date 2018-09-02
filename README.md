@@ -23,3 +23,7 @@ Second phase of the SaaS: train on labeled data augmented with the estimates of 
 When we use conv-large instead of ResNet18 for CIFAR-10 dataset, we have employed ZCA preprocessing. 
 
 ```python saas_sup_zca.py  --dataset 'cifar10' --net_name conv_large```
+
+### Fig-1
+
+The minimal code to reproduce the figure-1 in the paper SaaS is inside the folder fig1.
