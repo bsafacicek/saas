@@ -20,5 +20,5 @@ Second phase of the SaaS: train on labeled data augmented with the estimates of 
 The minimal code to reproduce the figure-1 in the paper SaaS is inside the folder fig1.
 
 ## Reference
-[1] Cicek, S., A. Fawzi, Soatto, S.: *SaaS: Speed as a Supervisor for Semi-supervised Learning*.  In Proceedings of the European Conference on Computer Vision (ECCV ’18).
+[1] S. Cicek, A. Fawzi and S. Soatto: *SaaS: Speed as a Supervisor for Semi-supervised Learning*.  In Proceedings of the European Conference on Computer Vision (ECCV ’18).
 
