@@ -1,5 +1,5 @@
 
-This repository implements the SaaS algorithm proposed in [[1]](https://arxiv.org/abs/1805.00980) using PyTorch.
+This repository implements the SaaS algorithm proposed in [[1]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Safa_Cicek_SaaS_Speed_as_ECCV_2018_paper.pdf) using PyTorch.
 
 ### SaaS
 
